@@ -1,4 +1,4 @@
-sajt nije bas responsive 
+sajt nije responsive 
 
 
 kontaktirajte me na:
